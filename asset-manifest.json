@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/soma-mini/static/css/main.abd5d0db.css",
+    "main.js": "/soma-mini/static/js/main.4d6405cd.js",
+    "static/media/서울한강 장체L.ttf": "/soma-mini/static/media/서울한강 장체L.dbef33ff944dfa2bf7f9.ttf",
+    "static/media/서울한강 장체M.ttf": "/soma-mini/static/media/서울한강 장체M.e5cd106f2c306963194e.ttf",
+    "static/media/서울한강 장체B.ttf": "/soma-mini/static/media/서울한강 장체B.93bc740787f4139ff28d.ttf",
+    "static/media/NotoSansKR-Bold.otf": "/soma-mini/static/media/NotoSansKR-Bold.bad0e182b567b441991f.otf",
+    "static/media/NotoSansKR-Medium.otf": "/soma-mini/static/media/NotoSansKR-Medium.b0d5e046ad43b4c999c5.otf",
+    "static/media/NotoSansKR-Light.otf": "/soma-mini/static/media/NotoSansKR-Light.95195a319b540e00beb2.otf",
+    "static/media/dog.svg": "/soma-mini/static/media/dog.420ba675757c7fdc5bed8d82b68de7ff.svg",
+    "static/media/mail.svg": "/soma-mini/static/media/mail.b2bbb732c33da5e6d14fa4e515de415a.svg",
+    "static/media/back.svg": "/soma-mini/static/media/back.972e5f0dc13debed399ce36f13d1093b.svg",
+    "static/media/star-empty.svg": "/soma-mini/static/media/star-empty.f85c62893813718878685b3dba54d7dc.svg",
+    "static/media/human.svg": "/soma-mini/static/media/human.2686386d05f4fb1c48324a7ea8df8aaa.svg",
+    "static/media/lock.svg": "/soma-mini/static/media/lock.311417fc5b2d90205a5d8ed989324cf3.svg",
+    "index.html": "/soma-mini/index.html",
+    "static/media/star.svg": "/soma-mini/static/media/star.b6d399b011d86441a6be5dc4a4764ad3.svg",
+    "static/media/heart.svg": "/soma-mini/static/media/heart.0c1b1d9b9abf377ad1c8b5802c39c0c7.svg",
+    "static/media/pencil.svg": "/soma-mini/static/media/pencil.1c826ebcf5d0e199349d0eeb3985bbb4.svg",
+    "static/media/comment.svg": "/soma-mini/static/media/comment.e397dbbfb089fab4d0c17fb815bddac1.svg",
+    "static/media/save.svg": "/soma-mini/static/media/save.c82b82a1df6ad00956ab85071b83df0f.svg",
+    "main.abd5d0db.css.map": "/soma-mini/static/css/main.abd5d0db.css.map",
+    "main.4d6405cd.js.map": "/soma-mini/static/js/main.4d6405cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd5d0db.css",
+    "static/js/main.4d6405cd.js"
+  ]
+}
